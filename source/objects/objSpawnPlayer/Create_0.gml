@@ -1,0 +1,4 @@
+/// @description Initialize
+
+spawnUsed = false;
+

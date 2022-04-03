@@ -1,0 +1,1 @@
+lightSwitchIndex = 2;

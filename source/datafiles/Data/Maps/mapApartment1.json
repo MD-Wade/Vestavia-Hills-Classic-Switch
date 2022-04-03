@@ -1,0 +1,1005 @@
+{
+  "mapInstances": [
+    {
+      "posY": 240,
+      "drawAngle": 0,
+      "drawSprite": "sprTable",
+      "posX": 560,
+      "objectIndex": "objTable"
+    },
+    {
+      "posY": 192,
+      "drawAngle": 90,
+      "drawSprite": "sprCouch3",
+      "posX": 376,
+      "objectIndex": "objCouch3"
+    },
+    {
+      "posY": 572,
+      "drawAngle": 88,
+      "drawSprite": "sprCouch6",
+      "posX": 432,
+      "objectIndex": "objCouch6"
+    },
+    {
+      "posY": 464,
+      "drawAngle": 280,
+      "drawSprite": "sprEntertainmentCenter",
+      "posX": 560,
+      "objectIndex": "objEntertainmentCenter"
+    },
+    {
+      "posY": 336,
+      "drawAngle": 0,
+      "drawSprite": "devSpawnPlayer",
+      "posX": 560,
+      "objectIndex": "objSpawnPlayer"
+    },
+    {
+      "posY": 416,
+      "drawAngle": 0,
+      "drawSprite": "devSpawnPlayer",
+      "posX": 368,
+      "objectIndex": "objSpawnPlayer"
+    },
+    {
+      "posY": 448,
+      "drawAngle": 0,
+      "drawSprite": "devSpawnPlayer",
+      "posX": 160,
+      "objectIndex": "objSpawnPlayer"
+    },
+    {
+      "posY": 608,
+      "drawAngle": 0,
+      "drawSprite": "devSpawnPlayer",
+      "posX": 240,
+      "objectIndex": "objSpawnPlayer"
+    },
+    {
+      "posY": 304,
+      "drawAngle": 0,
+      "drawSprite": "devSpawnPlayer",
+      "posX": 256,
+      "objectIndex": "objSpawnPlayer"
+    },
+    {
+      "posY": 160,
+      "drawAngle": 0,
+      "drawSprite": "devSpawnPlayer",
+      "posX": 240,
+      "objectIndex": "objSpawnPlayer"
+    },
+    {
+      "posY": 644,
+      "drawAngle": 90,
+      "drawSprite": "sprMysteryBox",
+      "posX": 172,
+      "objectIndex": "objMysteryBox"
+    },
+    {
+      "posY": 588,
+      "drawAngle": 0,
+      "drawSprite": "sprDesk3",
+      "posX": 280,
+      "objectIndex": "objDesk3"
+    },
+    {
+      "posY": 578,
+      "drawAngle": 0,
+      "drawSprite": "sprDoor",
+      "posX": 224,
+      "objectIndex": "objDoor"
+    },
+    {
+      "posY": 608,
+      "drawAngle": 90,
+      "drawSprite": "sprWall",
+      "posX": 352,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 640,
+      "drawAngle": 90,
+      "drawSprite": "sprWall",
+      "posX": 352,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 672,
+      "drawAngle": 90,
+      "drawSprite": "sprWall",
+      "posX": 352,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 608,
+      "drawAngle": 90,
+      "drawSprite": "sprWall",
+      "posX": 160,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 672,
+      "drawAngle": 90,
+      "drawSprite": "sprWall",
+      "posX": 160,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 640,
+      "drawAngle": 90,
+      "drawSprite": "sprWall",
+      "posX": 160,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 672,
+      "drawAngle": 0,
+      "drawSprite": "sprWall",
+      "posX": 160,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 672,
+      "drawAngle": 0,
+      "drawSprite": "sprWall",
+      "posX": 192,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 672,
+      "drawAngle": 0,
+      "drawSprite": "sprWall",
+      "posX": 224,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 672,
+      "drawAngle": 0,
+      "drawSprite": "sprWall",
+      "posX": 256,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 672,
+      "drawAngle": 0,
+      "drawSprite": "sprWall",
+      "posX": 320,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 672,
+      "drawAngle": 0,
+      "drawSprite": "sprWall",
+      "posX": 288,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 512,
+      "drawAngle": 90,
+      "drawSprite": "sprDoor",
+      "posX": 290,
+      "objectIndex": "objDoor"
+    },
+    {
+      "posY": 386,
+      "drawAngle": 0,
+      "drawSprite": "sprDoor",
+      "posX": 512,
+      "objectIndex": "objDoor"
+    },
+    {
+      "posY": 384,
+      "drawAngle": 0,
+      "drawSprite": "sprWall",
+      "posX": 192,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 386,
+      "drawAngle": 0,
+      "drawSprite": "sprDoor",
+      "posX": 224,
+      "objectIndex": "objDoor"
+    },
+    {
+      "posY": 194,
+      "drawAngle": 0,
+      "drawSprite": "sprDoor",
+      "posX": 288,
+      "objectIndex": "objDoor"
+    },
+    {
+      "posY": 184,
+      "drawAngle": 180,
+      "drawSprite": "sprCounter",
+      "posX": 144,
+      "objectIndex": "objCounter"
+    },
+    {
+      "posY": 160,
+      "drawAngle": 270,
+      "drawSprite": "sprBed",
+      "posX": 200,
+      "objectIndex": "objBed"
+    },
+    {
+      "posY": 224,
+      "drawAngle": 0,
+      "drawSprite": "sprWall",
+      "posX": 480,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 192,
+      "drawAngle": 0,
+      "drawSprite": "sprWall",
+      "posX": 192,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 192,
+      "drawAngle": 0,
+      "drawSprite": "sprWall",
+      "posX": 224,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 192,
+      "drawAngle": 0,
+      "drawSprite": "sprWall",
+      "posX": 256,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 192,
+      "drawAngle": 0,
+      "drawSprite": "sprWall",
+      "posX": 320,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 192,
+      "drawAngle": 0,
+      "drawSprite": "sprWall",
+      "posX": 352,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 192,
+      "drawAngle": 0,
+      "drawSprite": "sprWall",
+      "posX": 384,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 416,
+      "drawAngle": 90,
+      "drawSprite": "sprWall",
+      "posX": 288,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 448,
+      "drawAngle": 90,
+      "drawSprite": "sprWall",
+      "posX": 288,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 480,
+      "drawAngle": 90,
+      "drawSprite": "sprWall",
+      "posX": 288,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 544,
+      "drawAngle": 90,
+      "drawSprite": "sprWall",
+      "posX": 288,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 576,
+      "drawAngle": 90,
+      "drawSprite": "sprWall",
+      "posX": 288,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 384,
+      "drawAngle": 0,
+      "drawSprite": "sprWall",
+      "posX": 256,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 384,
+      "drawAngle": 0,
+      "drawSprite": "sprWall",
+      "posX": 544,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 384,
+      "drawAngle": 0,
+      "drawSprite": "sprWall",
+      "posX": 576,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 384,
+      "drawAngle": 0,
+      "drawSprite": "sprWall",
+      "posX": 480,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 384,
+      "drawAngle": 0,
+      "drawSprite": "sprWall",
+      "posX": 448,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 384,
+      "drawAngle": 0,
+      "drawSprite": "sprWall",
+      "posX": 416,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 384,
+      "drawAngle": 0,
+      "drawSprite": "sprWall",
+      "posX": 384,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 384,
+      "drawAngle": 0,
+      "drawSprite": "sprWall",
+      "posX": 352,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 384,
+      "drawAngle": 0,
+      "drawSprite": "sprWall",
+      "posX": 320,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 384,
+      "drawAngle": 0,
+      "drawSprite": "sprWall",
+      "posX": 288,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 224,
+      "drawAngle": 90,
+      "drawSprite": "sprWall",
+      "posX": 192,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 256,
+      "drawAngle": 90,
+      "drawSprite": "sprWall",
+      "posX": 192,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 288,
+      "drawAngle": 90,
+      "drawSprite": "sprWall",
+      "posX": 192,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 320,
+      "drawAngle": 90,
+      "drawSprite": "sprWall",
+      "posX": 192,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 352,
+      "drawAngle": 90,
+      "drawSprite": "sprWall",
+      "posX": 192,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 384,
+      "drawAngle": 90,
+      "drawSprite": "sprWall",
+      "posX": 192,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 416,
+      "drawAngle": 90,
+      "drawSprite": "sprWall",
+      "posX": 32,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 480,
+      "drawAngle": 90,
+      "drawSprite": "sprWall",
+      "posX": 32,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 512,
+      "drawAngle": 90,
+      "drawSprite": "sprWall",
+      "posX": 32,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 544,
+      "drawAngle": 90,
+      "drawSprite": "sprWall",
+      "posX": 32,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 576,
+      "drawAngle": 90,
+      "drawSprite": "sprWall",
+      "posX": 32,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 576,
+      "drawAngle": 90,
+      "drawSprite": "sprWall",
+      "posX": 608,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 544,
+      "drawAngle": 90,
+      "drawSprite": "sprWall",
+      "posX": 608,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 512,
+      "drawAngle": 90,
+      "drawSprite": "sprWall",
+      "posX": 608,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 480,
+      "drawAngle": 90,
+      "drawSprite": "sprWall",
+      "posX": 608,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 416,
+      "drawAngle": 90,
+      "drawSprite": "sprWall",
+      "posX": 608,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 384,
+      "drawAngle": 90,
+      "drawSprite": "sprWall",
+      "posX": 608,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 352,
+      "drawAngle": 90,
+      "drawSprite": "sprWall",
+      "posX": 608,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 320,
+      "drawAngle": 90,
+      "drawSprite": "sprWall",
+      "posX": 608,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 288,
+      "drawAngle": 90,
+      "drawSprite": "sprWall",
+      "posX": 608,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 256,
+      "drawAngle": 90,
+      "drawSprite": "sprWall",
+      "posX": 608,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 224,
+      "drawAngle": 90,
+      "drawSprite": "sprWall",
+      "posX": 416,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 192,
+      "drawAngle": 90,
+      "drawSprite": "sprWall",
+      "posX": 416,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 160,
+      "drawAngle": 90,
+      "drawSprite": "sprWall",
+      "posX": 416,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 128,
+      "drawAngle": 90,
+      "drawSprite": "sprWall",
+      "posX": 416,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 96,
+      "drawAngle": 90,
+      "drawSprite": "sprWall",
+      "posX": 416,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 192,
+      "drawAngle": 90,
+      "drawSprite": "sprWall",
+      "posX": 128,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 160,
+      "drawAngle": 90,
+      "drawSprite": "sprWall",
+      "posX": 128,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 128,
+      "drawAngle": 90,
+      "drawSprite": "sprWall",
+      "posX": 128,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 96,
+      "drawAngle": 90,
+      "drawSprite": "sprWall",
+      "posX": 128,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 576,
+      "drawAngle": 0,
+      "drawSprite": "sprWall",
+      "posX": 576,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 576,
+      "drawAngle": 0,
+      "drawSprite": "sprWall",
+      "posX": 544,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 576,
+      "drawAngle": 0,
+      "drawSprite": "sprWall",
+      "posX": 512,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 576,
+      "drawAngle": 0,
+      "drawSprite": "sprWall",
+      "posX": 480,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 576,
+      "drawAngle": 0,
+      "drawSprite": "sprWall",
+      "posX": 448,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 576,
+      "drawAngle": 0,
+      "drawSprite": "sprWall",
+      "posX": 416,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 576,
+      "drawAngle": 0,
+      "drawSprite": "sprWall",
+      "posX": 352,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 576,
+      "drawAngle": 0,
+      "drawSprite": "sprWall",
+      "posX": 320,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 576,
+      "drawAngle": 0,
+      "drawSprite": "sprWall",
+      "posX": 288,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 576,
+      "drawAngle": 0,
+      "drawSprite": "sprWall",
+      "posX": 256,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 576,
+      "drawAngle": 0,
+      "drawSprite": "sprWall",
+      "posX": 192,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 576,
+      "drawAngle": 0,
+      "drawSprite": "sprWall",
+      "posX": 160,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 576,
+      "drawAngle": 0,
+      "drawSprite": "sprWall",
+      "posX": 128,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 576,
+      "drawAngle": 0,
+      "drawSprite": "sprWall",
+      "posX": 96,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 576,
+      "drawAngle": 0,
+      "drawSprite": "sprWall",
+      "posX": 64,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 576,
+      "drawAngle": 0,
+      "drawSprite": "sprWall",
+      "posX": 32,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 384,
+      "drawAngle": 0,
+      "drawSprite": "sprWall",
+      "posX": 160,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 384,
+      "drawAngle": 0,
+      "drawSprite": "sprWall",
+      "posX": 128,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 384,
+      "drawAngle": 0,
+      "drawSprite": "sprWall",
+      "posX": 96,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 384,
+      "drawAngle": 0,
+      "drawSprite": "sprWall",
+      "posX": 64,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 384,
+      "drawAngle": 0,
+      "drawSprite": "sprWall",
+      "posX": 32,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 224,
+      "drawAngle": 0,
+      "drawSprite": "sprWall",
+      "posX": 576,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 224,
+      "drawAngle": 0,
+      "drawSprite": "sprWall",
+      "posX": 544,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 224,
+      "drawAngle": 0,
+      "drawSprite": "sprWall",
+      "posX": 512,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 224,
+      "drawAngle": 0,
+      "drawSprite": "sprWall",
+      "posX": 448,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 224,
+      "drawAngle": 0,
+      "drawSprite": "sprWall",
+      "posX": 416,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 192,
+      "drawAngle": 0,
+      "drawSprite": "sprWall",
+      "posX": 160,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 192,
+      "drawAngle": 0,
+      "drawSprite": "sprWall",
+      "posX": 128,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 64,
+      "drawAngle": 0,
+      "drawSprite": "sprWall",
+      "posX": 384,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 64,
+      "drawAngle": 0,
+      "drawSprite": "sprWall",
+      "posX": 352,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 64,
+      "drawAngle": 0,
+      "drawSprite": "sprWall",
+      "posX": 320,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 64,
+      "drawAngle": 0,
+      "drawSprite": "sprWall",
+      "posX": 256,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 64,
+      "drawAngle": 0,
+      "drawSprite": "sprWall",
+      "posX": 224,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 64,
+      "drawAngle": 0,
+      "drawSprite": "sprWall",
+      "posX": 192,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 64,
+      "drawAngle": 0,
+      "drawSprite": "sprWall",
+      "posX": 160,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 64,
+      "drawAngle": 0,
+      "drawSprite": "sprWall",
+      "posX": 128,
+      "objectIndex": "objWall"
+    },
+    {
+      "posY": 96,
+      "drawAngle": 20,
+      "drawSprite": "sprMicrowave",
+      "posX": 544,
+      "objectIndex": "objMicrowave"
+    },
+    {
+      "posY": 400,
+      "drawAngle": 0,
+      "drawSprite": "sprMicrowave",
+      "posX": 104,
+      "objectIndex": "objMicrowave"
+    },
+    {
+      "posY": 508,
+      "drawAngle": 2,
+      "drawSprite": "sprCouch6",
+      "posX": 44,
+      "objectIndex": "objCouch6"
+    },
+    {
+      "posY": 368,
+      "drawAngle": 180,
+      "drawSprite": "sprCouch6",
+      "posX": 608,
+      "objectIndex": "objCouch6"
+    },
+    {
+      "posY": 404,
+      "drawAngle": 90,
+      "drawSprite": "sprVHSRack",
+      "posX": 556,
+      "objectIndex": "objVHSRack"
+    },
+    {
+      "posY": 404,
+      "drawAngle": 90,
+      "drawSprite": "sprVHSRack",
+      "posX": 508,
+      "objectIndex": "objVHSRack"
+    },
+    {
+      "posY": 404,
+      "drawAngle": 90,
+      "drawSprite": "sprVHSRack",
+      "posX": 408,
+      "objectIndex": "objVHSRack"
+    },
+    {
+      "posY": 520,
+      "drawAngle": -0.5,
+      "drawSprite": "sprDesk",
+      "posX": 88,
+      "objectIndex": "objDesk"
+    },
+    {
+      "posY": 572,
+      "drawAngle": 180,
+      "drawSprite": "sprWorkTable",
+      "posX": 348,
+      "objectIndex": "objWorkTable"
+    },
+    {
+      "posY": 400,
+      "drawAngle": 0,
+      "drawSprite": "sprShelf",
+      "posX": 76,
+      "objectIndex": "objShelf"
+    },
+    {
+      "posY": 572,
+      "drawAngle": 180,
+      "drawSprite": "sprCouch4",
+      "posX": 604,
+      "objectIndex": "objCouch4"
+    },
+    {
+      "posY": 400,
+      "drawAngle": 0,
+      "drawSprite": "sprFridge",
+      "posX": 52,
+      "objectIndex": "objFridge"
+    },
+    {
+      "posY": 288,
+      "drawAngle": 205,
+      "drawSprite": "sprCouch2",
+      "posX": 304,
+      "objectIndex": "objCouch2"
+    },
+    {
+      "posY": 352,
+      "drawAngle": 170,
+      "drawSprite": "sprChair",
+      "posX": 288,
+      "objectIndex": "objChair"
+    },
+    {
+      "posY": 224,
+      "drawAngle": 0,
+      "drawSprite": "sprEntertainmentCenter",
+      "posX": 200,
+      "objectIndex": "objEntertainmentCenter"
+    },
+    {
+      "posY": 200,
+      "drawAngle": 0,
+      "drawSprite": "sprDesk4",
+      "posX": 368,
+      "objectIndex": "objDesk4"
+    },
+    {
+      "posY": 68,
+      "drawAngle": 2,
+      "drawSprite": "sprDesk2",
+      "posX": 320,
+      "objectIndex": "objDesk2"
+    },
+    {
+      "posY": 72,
+      "drawAngle": 0,
+      "drawSprite": "sprCupboard",
+      "posX": 144,
+      "objectIndex": "objCupboard"
+    },
+    {
+      "posY": 72,
+      "drawAngle": 0,
+      "drawSprite": "sprCupboard",
+      "posX": 192,
+      "objectIndex": "objCupboard"
+    },
+    {
+      "posY": 396,
+      "drawAngle": 0,
+      "drawSprite": "sprCounter",
+      "posX": 300,
+      "objectIndex": "objCounter"
+    },
+    {
+      "posY": 72,
+      "drawAngle": 0,
+      "drawSprite": "sprCounter",
+      "posX": 268,
+      "objectIndex": "objCounter"
+    },
+    {
+      "posY": 232,
+      "drawAngle": 90,
+      "drawSprite": "sprHealthStation",
+      "posX": 452,
+      "objectIndex": "objHealthStation"
+    },
+    {
+      "posY": 336,
+      "drawAngle": 0,
+      "drawSprite": "sprTable2",
+      "posX": 432,
+      "objectIndex": "objTable2"
+    }
+  ]
+}

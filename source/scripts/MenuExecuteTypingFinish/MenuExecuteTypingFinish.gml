@@ -1,0 +1,7 @@
+/// @description MenuExecuteTypingFinish();
+function MenuExecuteTypingFinish() {
+
+
+
+
+}
