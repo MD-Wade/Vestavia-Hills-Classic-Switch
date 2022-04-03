@@ -5,6 +5,18 @@ if effectReady  {
         case 0: //Slow Time
             g.gameTimescaleMessage = approach(g.gameTimescaleMessage, 0.1, 0.06);
             
+            //Blur
+            if (!g.settingWeb)  {
+                var _gaussianRadius = -1;
+                with (objShaders)   {
+                    gaussianEnabled = true;
+                    gaussianRadius = approach(gaussianRadius, other.gaussianRadiusTarget, 0.4);
+                    _gaussianRadius = gaussianRadius;
+                }
+            }   else    {
+                var _gaussianRadius = gaussianRadiusTarget;
+            }
+            
             //Continue Once Criteria Met
             if (_gaussianRadius >= gaussianRadiusTarget)    {
                 if ((g.gameTimescaleMessage <= 0.1))   {
@@ -36,6 +48,16 @@ if effectReady  {
             
         case 2: //Finish
             if (drawAlpha <= 0)    {
+            
+                //Unblur
+                var _gaussianRadius = -1;
+                with (objShaders)   {
+                    gaussianRadius = approach(gaussianRadius, other.gaussianRadiusTarget, 0.4);
+                    _gaussianRadius = gaussianRadius;
+                    
+                    if (gaussianRadius <= 0)
+                        gaussianEnabled = false;
+                }
                 
                 //Revert to Normal Time
                 g.gameTimescaleMessage = approach(g.gameTimescaleMessage, 1.0, 0.0185);

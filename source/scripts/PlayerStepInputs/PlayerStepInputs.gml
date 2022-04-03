@@ -6,14 +6,14 @@ function PlayerStepInputs() {
 	inputRight = abs(clamp(gamepad_axis_value(global.GP_ID, gp_axislh), 0, 1));
 	inputAttack = gamepad_button_check(global.GP_ID, gp_shoulderrb);
 	inputAttackPress = gamepad_button_check_pressed(global.GP_ID, gp_shoulderrb);
-	inputInteractPress = gamepad_button_check_pressed(global.GP_ID, gp_shoulderlb);
-	inputInteractHold = gamepad_button_check(global.GP_ID, gp_shoulderlb);
-	inputInteractRelease = gamepad_button_check_released(global.GP_ID, gp_shoulderlb);
-	inputReload = gamepad_button_check_pressed(global.GP_ID, gp_face2);
+	inputInteractPress = gamepad_button_check_pressed(global.GP_ID, gp_shoulderlb) or gamepad_button_check_pressed(global.GP_ID, gp_face2);
+	inputInteractHold = gamepad_button_check(global.GP_ID, gp_shoulderlb) or gamepad_button_check(global.GP_ID, gp_face2);
+	inputInteractRelease = gamepad_button_check_released(global.GP_ID, gp_shoulderlb) or gamepad_button_check_released(global.GP_ID, gp_face2);
+	inputReload = gamepad_button_check_pressed(global.GP_ID, gp_face3);
 	inputCamera = false;
-	inputWeaponNegative = gamepad_button_check_pressed(global.GP_ID, gp_shoulderl);
-	inputWeaponPositive = gamepad_button_check_pressed(global.GP_ID, gp_shoulderr);
-	inputDrop = gamepad_button_check_pressed(global.GP_ID, gp_face4);
+	inputWeaponNegative = gamepad_button_check_pressed(global.GP_ID, gp_padl);
+	inputWeaponPositive = gamepad_button_check_pressed(global.GP_ID, gp_padr) or gamepad_button_check_pressed(global.GP_ID, gp_face4);
+	inputDrop = gamepad_button_check_pressed(global.GP_ID, gp_face1);
         
 	var _axisValueRH = gamepad_axis_value(global.GP_ID, gp_axisrh);
 	var _axisValueRV = gamepad_axis_value(global.GP_ID, gp_axisrv);
